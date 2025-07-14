@@ -97,5 +97,4 @@ npm start
 - [shadcn/ui](https://ui.shadcn.com/) for the beautiful component library
 - [Tailwind CSS](https://tailwindcss.com/) for the utility-first CSS framework
 - [Lucide](https://lucide.dev/) for the icon library
-- [Recharts](https://recharts.org/) for the charting library
 - [Next.js](https://nextjs.org/) for the React framework
